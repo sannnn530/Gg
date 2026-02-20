@@ -1,0 +1,16 @@
+# Exported from Render on 2026-02-20T11:35:03Z
+version: "1"
+projects:
+- name: My project
+  environments:
+  - name: Production
+    services:
+    - type: web
+      name: San1
+      runtime: docker
+      repo: https://github.com/sannnn530/San1
+      plan: free
+      region: oregon
+      dockerContext: .
+      dockerfilePath: ./Dockerfile
+      autoDeployTrigger: commit
